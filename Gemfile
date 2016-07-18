@@ -10,6 +10,7 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 
 gem 'clearance'
+gem 'carrierwave'
 
 group :test do
   gem 'rspec-rails'
